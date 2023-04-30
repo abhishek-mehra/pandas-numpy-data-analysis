@@ -1,7 +1,7 @@
 # Data Analysis with Pandas and Numpy
 This repository contains Python code that demonstrates various operations that can be performed on a Pandas dataframe and a Numpy array. Pandas is a popular Python library that is used for data manipulation, analysis, and cleaning, while Numpy is used for numerical computations.
 
-##Operations Demonstrated
+## Operations Demonstrated
 
 ### Pandas dataframe:
 Printing the number of rows for which traffic values are higher than 10,000
